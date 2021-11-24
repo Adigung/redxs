@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" contents="Hyrdroponic Watchers">
+        <link rel="stylesheet" href="style.css" type="text/css">
+        
+</head>
+<style>
+    .meks {
+        width : 35vw;
+        height: 35vh;
+        margin : auto;
+    }
+    .content1 {
+                max-width: 500px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background:#EEEEEE;
+                padding: 10px;
+                outline-color:black;
+                outline-style: double;
+            }
+</style>
+<body class="content1"> 
+    <header class="entry-header lede lede_video header_custom align_left height-full light fancy"><div class="site-main entry-title">
+        <div class="filter">
+    </div>
+<video preload="metadata" playsinline="" webkit-playsinline="" autoplay="" muted="" loop="" class="pause-scroll meks center" __idm_id__="1123303428"> <source src="https://edge.generalhydroponics.com/www/uploads/20210206014844/home-v3-1k-trim.webm" type="video/webm"> <source src="https://edge.generalhydroponics.com/www/uploads/20210206014907/home-v3-1k-trim.mp4" type="video/mp4">
+</video>
+
+</div>
+        <nav id="navigation">
+            <ui>
+                <li><a href="ViewLdrValues.php">DATA</a></li>
+            </ui>
+        </nav>
+    </header>
+    <div id="contents">
+    <footer>
+    <p>This is Homepage of Hydroponic Watchers</p>
+    <p>Copyright ©Hydra <?php echo date("Y"); ?></p>
+</footer>
+</html>
